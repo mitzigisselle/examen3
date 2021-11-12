@@ -4,7 +4,6 @@
 
 <div class="row mt-5">
     <div class="col">
-        <h1 class="text-center display-4"><strong>Aqui encontraras una lista de titulos de libros. Podras actulizar cualquier libro a tu manera</strong></h1>
         <h1 class="text-center display-4 text-success" ><strong>Bienvenido!!!!</strong></h1>
         
     </div>
